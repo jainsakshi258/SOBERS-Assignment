@@ -1,0 +1,7 @@
+date,transaction,amounts,to,from
+Oct 1 2019,remove,99.2,182,198
+Oct 2 2019,add,2000.1,198,188
+03-10-2019,remove,99.4,182,198
+04-10-2019,add,2123.5,198,188
+5 Oct 2019,remove,5.7,182,198
+6 Oct 2019,add,1060.8,198,188
